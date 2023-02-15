@@ -6,14 +6,14 @@
 
 ## 멤버
 
-- [**그레이](https://github.com/kim0914) @동욱 김**
-- [**푸우](https://github.com/BGuga) @승준 백**
-- **[호이](https://github.com/this2sho)** @이건호
-- **[키아라](https://github.com/kiarakim)** @Kiara
-- **[블랙캣](https://github.com/Songusika)** @송우석
-- **[콩하나](https://github.com/kong-hana01)** @최한빈[학생](경영대학 경영학과) ‍
-- **[져니](http://github.com/cl8d)** @Jiwon
-- **[에코](https://github.com/echo724)** @조은찬
+- **[그레이](https://github.com/kim0914)**
+- **[푸우](https://github.com/BGuga)**
+- **[호이](https://github.com/this2sho)**
+- **[키아라](https://github.com/kiarakim)**
+- **[블랙캣](https://github.com/Songusika)**
+- **[콩하나](https://github.com/kong-hana01)**
+- **[져니](http://github.com/cl8d)**
+- **[에코](https://github.com/echo724)**
 
 ## 교재
 
